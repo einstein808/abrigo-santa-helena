@@ -9129,7 +9129,9 @@ textarea.form-control {
   -webkit-animation: loader-dash 1.5s ease-in-out infinite;
   animation: loader-dash 1.5s ease-in-out infinite;
   stroke-linecap: round; }
-  .container{
+.carrousel-sobre{
+  margin-bottom: 70px;
+  margin-top: -100px;
 }
 
 @-webkit-keyframes loader-rotate {
